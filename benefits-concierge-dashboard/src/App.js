@@ -1,12 +1,10 @@
-import logo from './logo.svg';
 import './App.scss';
+import Header from './Header/Header'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        test
-      </header>
+      <Header />
     </div>
   );
 }
