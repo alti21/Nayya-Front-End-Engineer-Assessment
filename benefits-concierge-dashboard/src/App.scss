@@ -1,5 +1,12 @@
+@import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .bg-blue {
@@ -7,24 +14,101 @@
   color: #fff;
 }
 
+
+
 .App-header {
-  min-height: 10vh;
+  min-height: 76px;
+  justify-content: center;
+}
+
+.align-items-center {
+  -ms-flex-align: center;
+  align-items: center;
+}
+.d-flex-row {
+  display: -ms-flexbox;
   display: flex;
   flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
 }
 
-.App-link {
-  color: #61dafb;
+.navbar::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  height: 13px;
+  border-left: 1px solid #AFDCE2;
+  left: 0px;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.navbar::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  height: 13px;
+  border-left: 1px solid #AFDCE2;
+  right: 0px;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.navlink {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+  color: #fff;
+  display: inline-block;
+  padding: 21px 0px;
+  position: relative;
+  border-bottom: 3px solid transparent;
+}
+
+.navlink:hover {
+  text-decoration: none;
+  color: #fff;
+  border-bottom: 3px solid #fff;
+  transition: all .2s ease-in-out;
+ cursor: default;
+}
+
+.user-name {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+  color: #fff;
+  display: inline-block;
+  padding: 21px 0px;
+  position: relative;
+  border-bottom: 3px solid transparent;
+}
+
+.user-name:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.user-name span:first-child {
+  font-size: 16px;
+color: #074C93;
+line-height: 25px;
+font-weight: 500;
+width: 26px;
+height: 26px;
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+border-radius: 50%;
+display: inline-block;
+background: linear-gradient(338.13deg, #FFFBD8 0%, #FDDAE0 100.5%);
+text-align: center;
+text-transform: uppercase;
+margin-right: 24px;
 }
