@@ -1,12 +1,14 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 
-const SpendingOverview = () => (
-    <Container className='overview'>
+const Footer = () => (
+    <Container>
         <Row>
+            <Col>
 
+            </Col>
         </Row>
     </Container>
 )
 
-export default SpendingOverview;
+export default Footer;

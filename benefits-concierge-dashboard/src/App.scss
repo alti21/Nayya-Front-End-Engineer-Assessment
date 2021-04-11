@@ -7,7 +7,10 @@
 
 .App {
   text-align: left;
+  background: linear-gradient(269.21deg, #EDF5F6 9.61%, #AFDCE2 192.13%);
+  height: 1046px;
 }
+
 
 .bg-blue {
   background-color: #074C93;
@@ -111,4 +114,10 @@ background: linear-gradient(338.13deg, #FFFBD8 0%, #FDDAE0 100.5%);
 text-align: center;
 text-transform: uppercase;
 margin-right: 24px;
+}
+
+.overview {
+  height: 777px;
+  width: 314px;
+  background-color: #fff;
 }
