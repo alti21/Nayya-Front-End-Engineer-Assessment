@@ -11,13 +11,10 @@
   height: 1046px;
 }
 
-
 .bg-blue {
   background-color: #074C93;
   color: #fff;
 }
-
-
 
 .App-header {
   min-height: 76px;
@@ -131,7 +128,6 @@
   background-color: #fff;
   margin-top: 46px;
   float: right;
-  margin-right: 156px;
   padding-left: 26px;
   padding-right: 26px;
   font-family: 'Work Sans', sans-serif;
@@ -158,8 +154,6 @@
   margin-bottom: 5px;
   height: 14px;
 }
-
-
 
 .overview-tile-content {
   display: inline-block;
@@ -203,10 +197,68 @@
   width: 104px;
 }
 
+/*Spending Tiles*/
 
 
+.header-tile {
+  background-color: #fff;
+  width: 732px;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+  padding: 20px 25px;
+  box-sizing: content-box;
+}
+
+.header-tile-box {
+  width: 128px;
+  height: 65px;
+}
+
+.welcome {
+  height: 17px;
+  font-size: 12px;
+}
+
+.first-name {
+  height: 19px;
+  margin-top: 5px;
+  font-size: 20px;
+  font-weight: inherit;
+}
+
+.date {
+  height: 14px;
+  margin-top: 9px;
+  font-weight: normal;
+  font-size: 12px;
+}
+
+.savings-title {
+  height: 17px;
+  font-size: 12px;
+}
+
+.savings-amount {
+  margin-top: 5px;
+  height: 40px;
+  color: green;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 1;
+}
+
+.action {
+  font-weight: normal;
+  font-size: 12px;
+}
+
+.gear-icon {
+  height: 19px;
+  margin-right: 25px;
+}
 
 
+/*Footer*/
 
 .bcd-footer {
 
