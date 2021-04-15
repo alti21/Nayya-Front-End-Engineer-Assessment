@@ -257,6 +257,87 @@
   margin-right: 25px;
 }
 
+.tile-row {
+  height: 113px;
+  background-color: #fff;
+  margin-top: 13px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.tile-icon {
+  margin-top: 26px;
+  height: 14px;
+}
+
+.tile-heading {
+  margin-top: 26px;
+  height: 14px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.tile-amount {
+  font-size: 40px;
+  font-weight: 300;
+  height: 39px;
+  margin-top: 7px;
+}
+
+.tile-firstName {
+  margin-top: 26px;
+  height: 14px;
+  font-size: 12px;
+}
+
+.orange {
+  color: orange;
+  font-weight: 400;
+}
+
+.blue {
+  color: skyblue;
+  font-weight: 400;
+}
+
+.red {
+  color: red;
+  font-weight: 400;
+}
+
+.tile-info {
+  margin-top: 7px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.time {
+  color: red;
+  float: right;
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+.tile-action {
+  float: right;
+  margin-top: 22px;
+  color: #074C93;
+  border: 3px solid #074C93;
+  border-radius: 50px;
+  height: 35px;
+  width: 116px;
+  font-size: 12px;
+  clear: both;
+  background-color: #fff;
+  font-weight: 500;
+
+  &:hover {
+    color: #fff;
+    background-color: #074C93;
+  }
+
+}
+
+
 
 /*Footer*/
 
