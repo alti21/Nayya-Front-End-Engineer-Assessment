@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Nayya-Front-End-Engineer-Assessment/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Nayya-Front-End-Engineer-Assessment/static/js/main.f3382eaf.chunk.js",
-    "main.js.map": "/Nayya-Front-End-Engineer-Assessment/static/js/main.f3382eaf.chunk.js.map",
-    "runtime-main.js": "/Nayya-Front-End-Engineer-Assessment/static/js/runtime-main.0ec0a9c7.js",
-    "runtime-main.js.map": "/Nayya-Front-End-Engineer-Assessment/static/js/runtime-main.0ec0a9c7.js.map",
-    "static/js/2.8c3943fa.chunk.js": "/Nayya-Front-End-Engineer-Assessment/static/js/2.8c3943fa.chunk.js",
-    "static/js/2.8c3943fa.chunk.js.map": "/Nayya-Front-End-Engineer-Assessment/static/js/2.8c3943fa.chunk.js.map",
-    "static/js/3.357240ee.chunk.js": "/Nayya-Front-End-Engineer-Assessment/static/js/3.357240ee.chunk.js",
-    "static/js/3.357240ee.chunk.js.map": "/Nayya-Front-End-Engineer-Assessment/static/js/3.357240ee.chunk.js.map",
+    "main.css": "/Nayya-Front-End-Engineer-Assessment/static/css/main.ee224cf5.chunk.css",
+    "main.js": "/Nayya-Front-End-Engineer-Assessment/static/js/main.a730fafe.chunk.js",
+    "main.js.map": "/Nayya-Front-End-Engineer-Assessment/static/js/main.a730fafe.chunk.js.map",
+    "runtime-main.js": "/Nayya-Front-End-Engineer-Assessment/static/js/runtime-main.d65275d1.js",
+    "runtime-main.js.map": "/Nayya-Front-End-Engineer-Assessment/static/js/runtime-main.d65275d1.js.map",
+    "static/js/2.99d5317c.chunk.js": "/Nayya-Front-End-Engineer-Assessment/static/js/2.99d5317c.chunk.js",
+    "static/js/2.99d5317c.chunk.js.map": "/Nayya-Front-End-Engineer-Assessment/static/js/2.99d5317c.chunk.js.map",
+    "static/js/3.65be14ff.chunk.js": "/Nayya-Front-End-Engineer-Assessment/static/js/3.65be14ff.chunk.js",
+    "static/js/3.65be14ff.chunk.js.map": "/Nayya-Front-End-Engineer-Assessment/static/js/3.65be14ff.chunk.js.map",
     "index.html": "/Nayya-Front-End-Engineer-Assessment/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Nayya-Front-End-Engineer-Assessment/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.8c3943fa.chunk.js.LICENSE.txt": "/Nayya-Front-End-Engineer-Assessment/static/js/2.8c3943fa.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Nayya-Front-End-Engineer-Assessment/static/media/logo.6ce24c58.svg"
+    "static/css/main.ee224cf5.chunk.css.map": "/Nayya-Front-End-Engineer-Assessment/static/css/main.ee224cf5.chunk.css.map",
+    "static/js/2.99d5317c.chunk.js.LICENSE.txt": "/Nayya-Front-End-Engineer-Assessment/static/js/2.99d5317c.chunk.js.LICENSE.txt",
+    "static/media/Favicon.479097fd.svg": "/Nayya-Front-End-Engineer-Assessment/static/media/Favicon.479097fd.svg",
+    "static/media/notification.9e012edb.svg": "/Nayya-Front-End-Engineer-Assessment/static/media/notification.9e012edb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ec0a9c7.js",
-    "static/js/2.8c3943fa.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.f3382eaf.chunk.js"
+    "static/js/runtime-main.d65275d1.js",
+    "static/js/2.99d5317c.chunk.js",
+    "static/css/main.ee224cf5.chunk.css",
+    "static/js/main.a730fafe.chunk.js"
   ]
 }
