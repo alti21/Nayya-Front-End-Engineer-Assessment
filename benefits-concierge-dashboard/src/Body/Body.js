@@ -13,6 +13,7 @@ const Body = () => (
                 <SpendingOverview />
             </Col>
         </Row>
+        <button className='more'>View more</button>
     </Container>
 ) 
 

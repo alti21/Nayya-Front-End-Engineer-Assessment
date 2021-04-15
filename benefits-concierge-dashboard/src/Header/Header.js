@@ -10,10 +10,10 @@ const Header = () => (
     <div className='bg-blue'>
         <Container className='App-header bg-blue'>
             <Row>
-                <Col  xl={2} className="px-0">
+                <Col  lg={2} className="px-0">
                     <Logo logoClass='bcd-logo' titleClass='navlink'/>
                 </Col>
-                <Col xl={4}>
+                <Col lg={4}>
                     <Navbar className='navbar p-0 pr-2'>
                         <Navlink >
                             <a href="#" className='navlink' style={{width: 62}}>Pharmacy<br></br>Savings</a>
@@ -26,7 +26,7 @@ const Header = () => (
                         </Navlink>
                     </Navbar>
                 </Col>
-                <Col xl={4} className='ml-auto'>
+                <Col lg={4} className='ml-auto'>
                     <Navbar className='align-items-center'>
                         <Navlink width={2}>
                             <a href="#" data-toggle="tooltip" data-placement="bottom" title="View my Cards and Plans"><img src={Notification} alt=""></img></a>
